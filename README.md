@@ -1,5 +1,5 @@
 # TechLink
-<h1 align="center">ConnectPro</h1>
+<h1 align="center">TechLinkh1>
 
 <p align="center">
   <a href="">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p align="center">Proudly made by a global team 🌍</p>
+<p align="center">Proudly made by a Global Tech Link 🌍</p>
 
 ---
 
@@ -39,12 +39,6 @@
 - **Framework**: Flutter
 - **Language**: Dart
 
-### **Backend**
-- **Primary Language**: Node.js
-- **Database**: Firebase Firestore / PostgreSQL
-- **Authentication**: Firebase Authentication
-
----
 
 <p align="center">
   <a href="https://your-demo-link.com">
@@ -55,7 +49,7 @@
 
 <h2 align="center">⚠️ NOTE</h2>
 
-- **ConnectPro is not made for misuse**. Misusing the platform might lead to consequences for user accounts.
+- **TechLink is not made for misuse**. Misusing the platform might lead to consequences for user accounts.
 - Use the platform responsibly.
-- **ConnectPro's source code is proprietary and not intended for unauthorized projects.**
+- **TechLink's source code is proprietary and not intended for unauthorized projects.**
 
