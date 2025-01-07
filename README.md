@@ -1,9 +1,7 @@
 # TechLink
-#ConnectPro
+`TechLink` is a cross-platform application designed to bridge the gap between customers and service providers. Unlike LinkedIn, which focuses primarily on professional networking, ConnectPro emphasizes direct connections for services. Users can find, contact, and collaborate with service providers easily and efficiently.
 
-ConnectPro is a cross-platform application designed to bridge the gap between customers and service providers. Unlike LinkedIn, which focuses primarily on professional networking, ConnectPro emphasizes direct connections for services. Users can find, contact, and collaborate with service providers easily and efficiently.
-
-Features
+#Features#
 
 Customer & Service Provider Profiles: Create detailed profiles showcasing skills, services, and needs.
 
