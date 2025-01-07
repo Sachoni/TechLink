@@ -1,14 +1,61 @@
 # TechLink
-`TechLink` is a cross-platform application designed to bridge the gap between customers and service providers. Unlike LinkedIn, which focuses primarily on professional networking, ConnectPro emphasizes direct connections for services. Users can find, contact, and collaborate with service providers easily and efficiently.
+<h1 align="center">ConnectPro</h1>
 
-#Features#
+<p align="center">
+  <a href="">
+    <img alt="ConnectPro Logo" height="400" src="/assets/images/logo.png">
+  </a>
+</p>
+<p align="center">A platform connecting customers with service providers.</p>
 
-Customer & Service Provider Profiles: Create detailed profiles showcasing skills, services, and needs.
+---
 
-Service Search: Search and filter service providers based on categories, location, and reviews.
+<p align="center">
+  <a href="https://your-demo-link.com">
+    <video width="320" height="240" autoplay muted>
+      <source src="/assets/demo/demo-video.mp4" type="video/mp4">
+      <source src="/assets/demo/demo-video.ogg" type="video/ogg">
+    </video>
+  </a>
+</p>
 
-Real-Time Chat: Communicate with service providers or customers in real-time.
+<p align="center">Proudly made by a global team 🌍</p>
 
-Booking System: Schedule appointments and manage bookings.
+---
 
-Ratings & Reviews: Provide feedback on services.
+## **Features**
+
+- **Customer & Service Provider Profiles**: Create detailed profiles showcasing skills, services, and needs.
+- **Service Search**: Search and filter service providers based on categories, location, and reviews.
+- **Real-Time Chat**: Communicate with service providers or customers in real-time.
+- **Booking System**: Schedule appointments and manage bookings.
+- **Ratings & Reviews**: Provide feedback on services.
+
+---
+
+## **Tech Stack**
+
+### **Frontend**
+- **Framework**: Flutter
+- **Language**: Dart
+
+### **Backend**
+- **Primary Language**: Node.js
+- **Database**: Firebase Firestore / PostgreSQL
+- **Authentication**: Firebase Authentication
+
+---
+
+<p align="center">
+  <a href="https://your-demo-link.com">
+    <img alt="ConnectPro Team" height="400" src="/assets/images/team.png">
+  </a>
+</p>
+<p align="center">Built with ❤️ by passionate developers.</p>
+
+<h2 align="center">⚠️ NOTE</h2>
+
+- **ConnectPro is not made for misuse**. Misusing the platform might lead to consequences for user accounts.
+- Use the platform responsibly.
+- **ConnectPro's source code is proprietary and not intended for unauthorized projects.**
+
