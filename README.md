@@ -1,5 +1,5 @@
 # TechLink
-<h1 align="center">TechLinkh1>
+<h1 align="center">ConnectPro</h1>
 
 <p align="center">
   <a href="">
