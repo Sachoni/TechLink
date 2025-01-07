@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="">
-    <img alt="ConnectPro Logo" height="400" src="/assets/images/logo.png">
+    <img alt="TechLink" height="400" src="assets/images/Pk Kenya.jpg">
   </a>
 </p>
 <p align="center">A platform connecting customers with service providers.</p>
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://your-demo-link.com">
-    <img alt="ConnectPro Team" height="400" src="/assets/images/team.png">
+    <img alt="ConnectPro Team" height="400" src="assets/images/Pk Kenya.jpg">
   </a>
 </p>
 <p align="center">Built with ❤️ by passionate developers.</p>
